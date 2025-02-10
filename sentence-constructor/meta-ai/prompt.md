@@ -15,7 +15,7 @@
 
 ## Output:
 Let's learn Tamil together.
-Vocabulary Table
+### Vocabulary Table
 
 |English Word	|Tamil Word (Dictionary Form)|
 |---------------|---------------------------|
@@ -26,7 +26,7 @@ Vocabulary Table
 |Open	|திற (Thira)|
 |You	|நீ (Ne)|
 
-Possible Sentence Structure
+### Possible Sentence Structure
 For the first part of the sentence: "Bears are at the door"
 Use the verb இரு (Iru) - to be
 Use the correct locative suffix to indicate the location
@@ -34,7 +34,8 @@ For the second part of the sentence: "Did you leave the gate open?"
 Use the verb விட (Vida) - to leave
 Use the correct question word ஏன் (En) - why or என்ன (Enna) - what (but here it means did)
 Use the correct adjective form to describe the state of the gate
-Clues
+
+### Clues
 Think about how to indicate the location of the bears.
 Conjugate the verb "leave" in the past tense.
 Use the correct question word to form a question.
