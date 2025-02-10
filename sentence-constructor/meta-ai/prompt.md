@@ -18,6 +18,7 @@ Let's learn Tamil together.
 Vocabulary Table
 
 |English Word	|Tamil Word (Dictionary Form)|
+|---------------|---------------------------|
 |Bear	|கரடி (Karadi)|
 |Door	|கதவு (Kadavu)|
 |Gate	|நுழைவாயில் (Nuzhaivayil)|
