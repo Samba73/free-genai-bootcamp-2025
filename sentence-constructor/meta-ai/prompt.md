@@ -13,16 +13,16 @@
 
 ## Student Input: Bears are at the door, did you leave the gate open?
 
-## Output " 
+## Output:
 Let's learn Tamil together.
 Vocabulary Table
 |English Word	|Tamil Word (Dictionary Form)|
-|Bear	|கரடி (Karadi)
-|Door	|கதவு (Kadavu)
-|Gate	|நுழைவாயில் (Nuzhaivayil)
-|Leave|	விட (Vida)
-|Open	|திற (Thira)
-|You	|நீ (Ne)
+|Bear	|கரடி (Karadi)|
+|Door	|கதவு (Kadavu)|
+|Gate	|நுழைவாயில் (Nuzhaivayil)|
+|Leave|	விட (Vida)|
+|Open	|திற (Thira)|
+|You	|நீ (Ne)|
 Possible Sentence Structure
 For the first part of the sentence: "Bears are at the door"
 Use the verb இரு (Iru) - to be
