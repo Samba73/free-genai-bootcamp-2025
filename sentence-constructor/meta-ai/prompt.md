@@ -24,6 +24,7 @@ Vocabulary Table
 |Leave|	விட (Vida)|
 |Open	|திற (Thira)|
 |You	|நீ (Ne)|
+
 Possible Sentence Structure
 For the first part of the sentence: "Bears are at the door"
 Use the verb இரு (Iru) - to be
